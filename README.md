@@ -3,7 +3,7 @@ This is a Github page for my **Telling Stories with Data** class at Carnegie Mel
 
 # ***About me***  
 [![](http://img.youtube.com/vi/VTlm0gLlGS0/0.jpg)](http://www.youtube.com/watch?v=VTlm0gLlGS0 "My Glacier Diving")  
-**This is a preview, click the picture to see the whole video !**:wink:  
+**This is a preview, click the picture to see the whole video !**  
 
 Hello everyone!  
 My name is Si Chen and I am a 2nd year master in public policy and management. Just one year ago, I earned my bachelor’s in Public Utilities Administration from North China Electric Power University in China. I spent almost half a year to investigate Chinese current family situation in many cities, and also used my 1-year school time to take an internship as a policy investigator for Chinese left-behind children, which refers to children who remain in rural regions of China while their parents leave to work in urban areas. During each summer of my college, I went to Sri Lanka to work as an international volunteer. Over the summer, I worked for the City of Pittsburgh as a change management internship.  
