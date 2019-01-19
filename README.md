@@ -10,9 +10,9 @@ My name is Si Chen and I am a 2nd year master in public policy and management. J
 I travel a lot and have lots of interests. My biggest hobby is diving and I just finished my glacier diving in Iceland this winter. Beyond diving, I love hiking, rock music, and movies. I went to Boston last May for a three-day music festival and enjoyed two concerts in Pittsburgh during last summer vacation, Radiohead and Arctic Monkeys! 
 
 #***What I hope to learn***
-  * I want to learn more about color theory and popular design choice to improve my data visualization.
-  * I want to get to know some ways to providing a Human-centerred design for my future digital design or digital products.
-  * I want to learn how to improve my data visualization and apply properly ways for explaining or presenting my story to audience.
+  * :one:I want to learn more about color theory and popular design choice to improve my data visualization.
+  * :two:I want to get to know some ways to providing a Human-centerred design for my future digital design or digital products.
+  * :three:I want to learn how to improve my data visualization and apply properly ways for explaining or presenting my story to audience.
 
 #***Portfolio***  
 To be continued ...
