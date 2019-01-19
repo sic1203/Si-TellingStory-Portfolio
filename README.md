@@ -2,7 +2,7 @@
 This is a Github page for my **Telling Stories with Data** class at Carnegie Mellon University.
 
 # ***About me***  
-[![](http://img.youtube.com/vi/VTlm0gLlGS0/0.jpg)](http://www.youtube.com/watch?v=VTlm0gLlGS0 "My Glacier Diving")  
+[![](http://img.youtube.com/vi/VTlm0gLlGS0/0.jpg style=centerme)](http://www.youtube.com/watch?v=VTlm0gLlGS0 "My Glacier Diving")  
 **This is a preview, click the picture to see the whole video !**  
 
 Hello everyone!  
