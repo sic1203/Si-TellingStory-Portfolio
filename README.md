@@ -1,7 +1,7 @@
 # Si Telling Stories with Data Portfolio page Spring 2019
 This is a Github page for my **Telling Stories with Data** class at Carnegie Mellon University.
 
-#***About me*** 
+#***About me***  
 [![](http://img.youtube.com/vi/VTlm0gLlGS0/0.jpg)](http://www.youtube.com/watch?v=VTlm0gLlGS0 "My Glacier Diving")
 
 Hello everyone!
@@ -13,5 +13,5 @@ I travel a lot and have lots of interests. My biggest hobby is diving and I just
   * I want to get to know some ways to providing a Human-centerred design for my future digital design or digital products.
   * I want to learn how to improve my data visualization and apply properly ways for explaining or presenting my story to audience.
 
-#***Portfolio***
+#***Portfolio***  
 To be continued ...
