@@ -32,6 +32,10 @@ Part 3 By my own choice
 
 I use streamgraph to visualize the data because it clearly shows the variation tendency of each countries' debt of GDP ratio from 1996 to 2016 and also compares the ratio between different countries. I set x-axis as time-series(1996-2016). The value in those colorful stacked bars is the ratio with countries' name. Even though I don't and I cannot have y-axis shows the specific value, we do not need the specific number. If I give the specific number without explanation, the audience still doesn't know what's the meaning behind the different number. Is the higher number good or, the lower one?  
 
-To figure out this, I organized the whole data from bigger to smaller. At the same time, I separate those countries into three categories. 1) Red to Yellow: Countries' ratio larger 60% ratio from 1996 to 2016; 2)Dark Blue to light: Countries' ratio in some year bigger than 60% and some years smaller than 60% from 1996 to 2016; 3)Dark green to light: Countries' ratio smaller than 60% ratio from 1996 to 2016; The reason why I chose 60% is that one of the Euro convergence criteria was that government debt-to-GDP be below 60%. And red usually represents negative and green represents positive. I don't want to my audience feel confused about the number, but also have more insights about the shifts and changes.      
+To figure out this, I organized the whole data from bigger to smaller. At the same time, I separate those countries into three categories.  
+  * Red to Yellow: Countries' ratio larger 60% ratio from 1996 to 2016;  
+  * Dark Blue to light: Countries' ratio in some year bigger than 60% and some years smaller than 60% from 1996 to 2016;  
+  * Dark green to light: Countries' ratio smaller than 60% ratio from 1996 to 2016.  
+The reason why I chose 60% is that **one of the Euro convergence criteria was that government debt-to-GDP be below 60%**(reference). And red usually represents negative and green represents positive. I don't want to my audience feel confused about the number, but also have more insights about the shifts and changes.      
   
 *Reference: "Progress towards convergence - November 1995 (report prepared in accordance with article 7 of the EMI statute)" (PDF). European Monetary Institute (EMI). November 1995. Retrieved 22 November 2012.*
