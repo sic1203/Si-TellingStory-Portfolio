@@ -15,7 +15,8 @@ I travel a lot and have lots of interests. My biggest hobby is diving and I just
   * I want to learn how to improve my data visualization and apply properly ways for explaining or presenting my story to audience.
 
 # ***Portfolio***  
-# Week#2# *OECD Data Visualizaition General government debt*  
+# Week#2#  
+*OECD Data Visualizaition General government debt*  
 Part 1 Web-based visualization tools
 <iframe src="https://data.oecd.org/chart/5rXt" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5rXt" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
