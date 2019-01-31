@@ -38,4 +38,8 @@ To figure out this, I organized the whole data from bigger to smaller. At the sa
   * Dark green to light: Countries' ratio smaller than 60% ratio from 1996 to 2016.  
   The reason why I chose 60% is that **one of the Euro convergence criteria was that government debt-to-GDP be below 60%**(reference). And red usually represents negative and green represents positive. I don't want to my audience feel confused about the number, but also have more insights about the shifts and changes.      
   
-*Reference: "Progress towards convergence - November 1995 (report prepared in accordance with article 7 of the EMI statute)" (PDF). European Monetary Institute (EMI). November 1995. Retrieved 22 November 2012.*
+*Reference: "Progress towards convergence - November 1995 (report prepared in accordance with article 7 of the EMI statute)" (PDF). European Monetary Institute (EMI). November 1995. Retrieved 22 November 2012.* . 
+
+# Week 3  
+First wireframe created by Mockup:
+![Image of First Wireframe] . (https://photos.app.goo.gl/HGaUez8VxoWcSruy8)
