@@ -40,6 +40,18 @@ To figure out this, I organized the whole data from bigger to smaller. At the sa
   
 *Reference: "Progress towards convergence - November 1995 (report prepared in accordance with article 7 of the EMI statute)" (PDF). European Monetary Institute (EMI). November 1995. Retrieved 22 November 2012.* . 
 
-# Week 3  
-First wireframe created by Mockup:
+# Week 3 
+[The original data visulization is here:](https://shadowandact.com/overwhelmed-487-original-scripted-tv-series-helped-2017-set-records-in-possible-late-stage-bubble) 
+
+First wireframe created by Mockup:  
 ![Image of First Wireframe] . (https://photos.app.goo.gl/HGaUez8VxoWcSruy8)
+*Process* I change the bar chart into a line graph to help the audience have a better sense of the tendency among each category.And I choose to keep the table which shows the change in each category during the past year because of it supplement the distribution information.
+
+*Friends feedback about my first wirefram* The line graph is great because it shows the change in each category. However, you can try to replace your label because the right bottom is the last place that audience look. You'd better highlight your information that wants to show to the audience and show the difference.
+
+*Final data visulization
+<iframe src="https://e.infogram.com/f4de6a1c-f6ea-4320-b5b0-833aa5f72629?src=embed" title="Untitled infographic" width="700" height="2200" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/f4de6a1c-f6ea-4320-b5b0-833aa5f72629" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+*explanation* I use dark blue and light blue to show Pay cable and basic cable because they all belong to cable services. And I use red and noticeable color to indicate the online service because it is my essential category and I want to let the audience see this category first when comparing with others.  
+Besides, I put all the label on the right side and after each line. The reason is when people see this line graph, their eyesight follows the line graph from left to right, and finally fixed on the right. Therefore, put the label on the right side can reinforce audience memory.  
+I also want to change the color of **2002** into a different color and want to highlight **online service** this line, but **infogram** not allow me to do so. I also try to use **Datawrapper** but it still has limited customize function. Both Infogram and Datawrapper are wonderful data visualization tool, and I hope they can have a more customized function in the future. I hope to see the more and greater tool in this class.
