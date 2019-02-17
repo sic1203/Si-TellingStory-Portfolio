@@ -61,3 +61,6 @@ Part 3
 *explanation:* I use dark blue and light blue to show Pay cable and basic cable because they all belong to cable services. And I use red and noticeable color to indicate the online service because it is my essential category and I want to let the audience see this category first when comparing with others.  
 Besides, I put all the label on the right side and after each line. The reason is when people see this line graph, their eyesight follows the line graph from left to right, and finally fixed on the right. Therefore, put the label on the right side can reinforce audience memory.  
 I also want to change the color of **2002** into a different color and want to highlight **online service** this line, but **infogram** not allow me to do so. I also try to use **Datawrapper** but it still has limited customize function. Both Infogram and Datawrapper are wonderful data visualization tool, and I hope they can have a more customized function in the future. I hope to see the more and greater tool in this class.
+
+# Final Project  
+[This is the link to my final project :)](https://sic1203.github.io/Final_Project_Si_Chen/)
